@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "208483948302",
+    "project_id": "anyacht-app",
+    "storage_bucket": "anyacht-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208483948302:android:ec9b84eab2d3bb1939695f",
+        "android_client_info": {
+          "package_name": "com.faisal49m.anyacht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208483948302-5a1siqfe5474mpfdq5hijmj31vcqcqei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpvDfr94KkhXrUKpzWEamRdQ2IciWmcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208483948302-5a1siqfe5474mpfdq5hijmj31vcqcqei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208483948302-0sl66n75n67k304djveitj5jhq02b29u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.faisal49m.anyacht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
